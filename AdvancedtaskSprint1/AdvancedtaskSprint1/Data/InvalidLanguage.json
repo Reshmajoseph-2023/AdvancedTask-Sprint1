@@ -1,0 +1,8 @@
+[
+  {
+    "language": "#$%^&*(",
+    "level": "Conversational",
+    "ExpectedMessage": "Special characters are not allowed"
+
+  }
+]

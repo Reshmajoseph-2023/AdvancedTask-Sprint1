@@ -1,0 +1,14 @@
+[
+  {
+    "skill": "Salesforce",
+    "skillLevel": "Expert",
+    "ExpectedMessage": "Salesforce has been added to your skills"
+  },
+
+  {
+    "skill": "Testing",
+    "skillLevel": "",
+    "ExpectedMessage": "Please enter skill and experience level"
+  }
+ 
+]

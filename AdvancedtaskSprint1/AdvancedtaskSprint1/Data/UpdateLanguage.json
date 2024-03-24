@@ -1,12 +1,15 @@
 [
   {
     "language": "French",
-    "level": "Basic"
+    "level": "Basic",
+    "ExpectedMessage": "French has been updated to your languages"
   },
 
   {
-    "language": "Telugu",
-    "level": "Basic"
+    "language": "French",
+    "level": "Basic",
+    "ExpectedMessage": "This language is already exist in your language list."
+
 
   }
 

@@ -1,15 +1,12 @@
 [
   {
     "skill": "Testing",
-    "skillLevel": "Intermediate"
-  },
-
-  {
-    "skill": "Saleforce",
-    "skillLevel": "Expert"
+    "skillLevel": "Intermediate",
+    "ExpectedMessage": "Testing has been updated to your skills"
   },
   {
-    "skill": "Art",
-    "skillLevel": "Beginner"
+    "skill": "Testing",
+    "skillLevel": "Intermediate",
+    "ExpectedMessage": "This skill is already added to your skill list."
   }
 ]

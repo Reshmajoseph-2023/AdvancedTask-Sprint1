@@ -1,14 +1,16 @@
 [
   {
     "language": "English",
-    "level": "Basic"
+    "level": "Basic",
+    "ExpectedMessage": "English has been added to your languages"
+
   },
   {
-    "language": "ghj",
-    "level": "Fluent"
-  },
-  {
-    "language": "French",
-    "level": "Conversational"
+
+    "language": "English",
+    "level": "Fluent",
+    "ExpectedMessage": "Duplicated data"
   }
-]
+   
+  
+  ]

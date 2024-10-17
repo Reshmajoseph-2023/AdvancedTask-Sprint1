@@ -17,5 +17,5 @@ and feature/branch-name**: Sprint1 - It contains manual test cases and automatio
 
 *****How to Review*****
 
-To review the automation code, select "Sprint11 " from the branch dropdown menu.
+To review the automation code, select "Sprint1 " from the branch dropdown menu.
 
